@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="01f9b4b9-3dbb-4aa0-87d9-44b028612750" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="22aN85nvbgUb2IXXrlftOGnAx4q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\毕业设计\刘亚蕾毕业论文\lyl_reid\query" />
+      <recent name="F:\毕业设计\刘亚蕾毕业论文\lyl_reid" />
+      <recent name="F:\毕业设计\刘亚蕾毕业论文\lyl_reid\data\samples" />
+      <recent name="F:\毕业设计\刘亚蕾毕业论文\person_search_demo-master\weights" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.search">
+    <configuration name="query_get" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="lyl_reid" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/query_get.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="search" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="lyl_reid" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/search.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.search" />
+        <item itemvalue="Python.query_get" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01f9b4b9-3dbb-4aa0-87d9-44b028612750" name="Default Changelist" comment="" />
+      <created>1640071575156</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640071575156</updated>
+      <workItem from="1640071577459" duration="1305000" />
+      <workItem from="1640072941024" duration="5904000" />
+      <workItem from="1640174109317" duration="2867000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2334" y="174" width="1092" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1640071605847">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2334" y="174" width="1092" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1640071605847" />
+    <state width="1237" height="364" key="GridCell.Tab.0.bottom" timestamp="1640327023538">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="364" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1640327023538" />
+    <state width="1877" height="326" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1640074380107" />
+    <state width="1222" height="105" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1640077651168" />
+    <state width="1237" height="364" key="GridCell.Tab.0.center" timestamp="1640327023536">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="364" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1640327023536" />
+    <state width="1877" height="326" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1640074380105" />
+    <state width="1222" height="105" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1640077651168" />
+    <state width="1237" height="364" key="GridCell.Tab.0.left" timestamp="1640327023531">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="364" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1640327023531" />
+    <state width="1877" height="326" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1640074380103" />
+    <state width="1222" height="105" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1640077651168" />
+    <state width="1237" height="364" key="GridCell.Tab.0.right" timestamp="1640327023537">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="364" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1640327023537" />
+    <state width="1877" height="326" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1640074380106" />
+    <state width="1222" height="105" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1640077651168" />
+    <state x="2340" y="81" key="SettingsEditor" timestamp="1640071732291">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2340" y="81" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1640071732291" />
+    <state x="297" y="-6" width="670" height="676" key="search.everywhere.popup" timestamp="1640074717743">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="-6" width="670" height="676" key="search.everywhere.popup/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1640074717743" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/lyl_reid$query_get.coverage" NAME="query_get Coverage Results" MODIFIED="1640074314368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lyl_reid$search.coverage" NAME="search Coverage Results" MODIFIED="1640175027759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/person_search_demo_master$search.coverage" NAME="search Coverage Results" MODIFIED="1640072512898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
